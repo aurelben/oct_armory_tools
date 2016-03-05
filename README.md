@@ -10,7 +10,7 @@ scaffold_flask.sh
 To scaffold module with blue print
 
 ```
-scaff_module.sh
+scaff_module.sh my_module_name
 ```
 
 
