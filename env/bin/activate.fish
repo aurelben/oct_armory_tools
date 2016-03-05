@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/aurel/etna/oct_armory/api_armory/env"
+set -gx VIRTUAL_ENV "/Users/aurel/Documents/etna/oct_armory_tools/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

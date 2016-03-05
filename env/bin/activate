@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/aurel/etna/oct_armory/api_armory/env"
+VIRTUAL_ENV="/Users/aurel/Documents/etna/oct_armory_tools/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
