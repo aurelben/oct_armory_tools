@@ -5,9 +5,11 @@ mkdir ./project
 mkdir ./project/templates
 mkdir ./project/static
 
-touch run.py
-touch config.py
+touch ./project/run.py
+touch ./project/config.py
 touch ./project/__init__.py
+touch setup.py
+touch requirements.txt
 
 echo "start virutual env"
 virtualenv env
